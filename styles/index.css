@@ -6,6 +6,8 @@ body {
   font-family: 'Roboto', sans-serif;
   width: 85%;
   margin: 0 auto;
+  background-color: #1D1F21;
+  color: #EEEEEE;
 }
 
 button, input[type="text"] {
